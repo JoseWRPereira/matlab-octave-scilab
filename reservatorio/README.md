@@ -29,4 +29,4 @@ xlabel("Tempo[s)");
 ylabel("Altura y[m]");
 ```
 
-[Resposta ao Degrau]()
+![Resposta ao Degrau](https://github.com/JoseWRPereira/matlab-octave-scilab/blob/25ba962c68ea128e8c639b6ec9decfee79ef0d8e/reservatorio/resposta_ao_degrau.png)
